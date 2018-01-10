@@ -1,0 +1,119 @@
+#j-show {
+  display: none;
+}
+#o-show {
+  display: none;
+}
+#v-show {
+  display: none;
+}
+#vnc-show {
+  display: none;
+}
+#f-show {
+  display: none;
+}
+#m-show {
+  display: none;
+}
+#a-show {
+  display: none;
+}
+#p-show {
+  display: none;
+}
+#r-show {
+  display: none;
+}
+#c-show {
+  display: none;
+}
+#s-show {
+  display: none;
+}
+#b-show {
+  display: none;
+}
+#u-show {
+  display: none;
+}
+#n-show {
+  display: none;
+}
+#e-show {
+  display: none;
+}
+
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable7 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable9 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable10 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable11 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable12 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable13 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable14 {
+  cursor: pointer;
+  color: #0088cc;
+}
+.clickable:hover .{
+  text-decoration: underline;
+}
+
+body {
+  text-align: center;
+  font-size: 35px;
+  color:green;
+  background: pink;
+
+}
